@@ -15,3 +15,7 @@ The t.gml file is a gml graph test file to use with gml.c and the Makefile
 
 For gml graph layout see also gml4gtk graph viewer at https://github.com/gml4gtk/gml4gtk
 
+There is a GNU GPL Free C++ GML graph language parser in hypercube at https://github.com/tumic0/hypercube
+
+And hypercube also has a basic C++ parser for graphviz dot language, graphml and matrix data
+
